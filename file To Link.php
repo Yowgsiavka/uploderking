@@ -3,7 +3,7 @@
 //@datisnetwork
 ob_start();
 
-$API_KEY = 'توکن';
+$API_KEY = '5357668237:AAHzeNoCGE4Y_gAPT8zR4Bp0quEUCVuINYo';
 ##------------------------------##
 define('API_KEY',$API_KEY);
 function bot($method,$datas=[]){
